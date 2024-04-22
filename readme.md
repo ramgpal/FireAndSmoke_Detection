@@ -30,7 +30,7 @@ This repository hosts a collection of algorithms and models aimed at efficiently
 ![Output 5](https://drive.google.com/uc?export=view&id=1yPOoUbuzoMDZzH-1mpQRCC0QWoyVXthw)
 **Output 5**
 
-![Output 6](https://drive.google.com/uc?export=view&id=1yPOoUbuzoMDZzH-1mpQRCC0QWoyVXthw)
+![Output 6](https://drive.google.com/uc?export=view&id=1JE6L7fpfI-q7cnKBMwWOejOubzlVkKdT)
 **Output 6**
 
 ![Output 7](https://drive.google.com/uc?export=view&id=1UomjhN1adABElKeOegwngXwNuSrr7gLa)
