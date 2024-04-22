@@ -15,23 +15,23 @@ This repository hosts a collection of algorithms and models aimed at efficiently
 
 ## Screenshots
 
-![Image Name](https://drive.google.com/uc?export=view&id=1_Uhu3fUkkR___7PcBTkpb-nrJVHcyJ-H)
+![Output 1](https://drive.google.com/uc?export=view&id=1_Uhu3fUkkR___7PcBTkpb-nrJVHcyJ-H)
 **Output 1**
 
-![Screenshot 2](./output/images/output2.png)
+![Output 2](https://drive.google.com/uc?export=view&id=1kaAgFeQzYKrsFZtzKUF1uwkYJaDDkyEu)
 **Output 2**
 
-![Screenshot 2](./output/images/output3.png)
+![Output 3](https://drive.google.com/uc?export=view&id=1Sfhmvc16_tCK-AC8HEiojdM6w6euG3a-)
 **Output 3**
 
-![Screenshot 2](./output/images/output4.png)
+![Output 4](https://drive.google.com/uc?export=view&id=1bWVp50fmeX08N8qacPxN3NkTWORzC2Ou)
 **Output 4**
 
-![Screenshot 2](./output/images/output5.png)
+![Output 5](https://drive.google.com/uc?export=view&id=1yPOoUbuzoMDZzH-1mpQRCC0QWoyVXthw)
 **Output 5**
 
-![Screenshot 2](./output/images/output6.png)
+![Output 6](https://drive.google.com/uc?export=view&id=1yPOoUbuzoMDZzH-1mpQRCC0QWoyVXthw)
 **Output 6**
 
-![Screenshot 2](./output/images/output7.png)
+![Output 7](https://drive.google.com/uc?export=view&id=1UomjhN1adABElKeOegwngXwNuSrr7gLa)
 **Output 7**
