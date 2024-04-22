@@ -13,11 +13,9 @@ This repository hosts a collection of algorithms and models aimed at efficiently
 - **Easy Integration:** The code is designed for easy integration into existing systems and workflows.
 - **Continuous Improvement:** We are committed to ongoing development and improvement of our detection techniques to stay ahead of emerging threats.
 
-Click on the image above to watch the video demo.
-
 ## Screenshots
 
-![Screenshot 1](./output/images/output1.png)
+![Screenshot 2](./output/images/output1.png)
 **Output 1**
 
 ![Screenshot 2](./output/images/output2.png)
