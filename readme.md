@@ -15,7 +15,7 @@ This repository hosts a collection of algorithms and models aimed at efficiently
 
 ## Screenshots
 
-![Screenshot 2](./output/images/output1.png)
+![Image Name](https://drive.google.com/uc?export=view&id=1_Uhu3fUkkR___7PcBTkpb-nrJVHcyJ-H)
 **Output 1**
 
 ![Screenshot 2](./output/images/output2.png)
