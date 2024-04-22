@@ -17,23 +17,23 @@ Click on the image above to watch the video demo.
 
 ## Screenshots
 
-![Screenshot 1](../output/images/output1.png)
+![Screenshot 1](./output/images/output1.png)
 **Output 1**
 
-![Screenshot 2](../output/images/output2.png)
+![Screenshot 2](./output/images/output2.png)
 **Output 2**
 
-![Screenshot 2](../output/images/output3.png)
+![Screenshot 2](./output/images/output3.png)
 **Output 3**
 
-![Screenshot 2](../output/images/output4.png)
+![Screenshot 2](./output/images/output4.png)
 **Output 4**
 
-![Screenshot 2](../output/images/output5.png)
+![Screenshot 2](./output/images/output5.png)
 **Output 5**
 
-![Screenshot 2](../output/images/output6.png)
+![Screenshot 2](./output/images/output6.png)
 **Output 6**
 
-![Screenshot 2](../output/images/output7.png)
+![Screenshot 2](./output/images/output7.png)
 **Output 7**
